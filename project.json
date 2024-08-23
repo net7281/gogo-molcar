@@ -1,0 +1,42 @@
+{
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"colorkey" : 
+			{
+				"condition" : "",
+				"index" : 0,
+				"order" : 100,
+				"text" : "background color",
+				"type" : "color",
+				"value" : "1 0.7725490196078432 0.7725490196078432"
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.3843137254901961 0.24313725490196078 0.24313725490196078"
+			},
+			"speedkey" : 
+			{
+				"fraction" : false,
+				"index" : 1,
+				"max" : 15,
+				"min" : 1,
+				"order" : 101,
+				"text" : "speed",
+				"type" : "slider",
+				"value" : 4
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"snapshotformat" : -1,
+	"snapshotoverlay" : "",
+	"title" : "gogo molcar",
+	"type" : "web",
+	"version" : 0
+}
